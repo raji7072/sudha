@@ -1,0 +1,2 @@
+from newfile
+run echo "testing docker">/html/testfile
